@@ -5,3 +5,5 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 test --no-ff方式的git merge：
+测试BUG分支。初始dev上的修改。
+本地的dev分支修改
