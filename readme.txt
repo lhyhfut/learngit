@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-test --no-ff方式的git merge：
+test --no-ff方式的git merge：]
+远程dev,修改
